@@ -2,3 +2,6 @@ Hello hello
 world world
 It was changed
 by web browser
+
+test for Gui
+gui test test 
